@@ -1,0 +1,26 @@
+version: "3"
+services:
+  node:
+    container_name: node_server
+    image: "node:10"
+    user: "node"
+    working_dir: /usr/app
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./:/usr/app
+    ports:
+      - 3000:3000
+    expose:
+      - "3000"
+    networks:
+        - default_network
+    command: "npm start"
+    external_links:
+      - postgres_container
+
+    
+networks:
+  default_network:
+    driver: bridge
+    external: true

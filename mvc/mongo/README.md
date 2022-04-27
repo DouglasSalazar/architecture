@@ -2,6 +2,12 @@
 
 Projeto desenvolvido com intuíto de exemplificar um cadastro simples de um usuário.
 
+
+Inicialização
+```bash
+docker-compose up -d --build
+```
+
 ## Linguagem
 
 * Javascript

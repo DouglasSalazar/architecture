@@ -1,0 +1,9 @@
+{
+    "username": "postgres",
+    "password": "PG789523",
+    "database": "database",
+    "host": "postgres_container",
+    "dialect": "postgres",
+    "port": 5432,
+    "type": "postgres"
+}

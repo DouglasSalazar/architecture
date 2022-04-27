@@ -1,0 +1,8 @@
+{
+    "service": "gmail",
+    "host": "smtp.gmail.com",
+    "auth": {
+      "user": "douglassalazar.dcs@gmail.com", 
+      "pass": "dcs9642919"
+    }
+}
