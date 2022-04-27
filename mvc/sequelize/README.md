@@ -1,6 +1,6 @@
 # Sequelize
 
-Projeto desenvolvido com intuíto de exemplificar o processo de autenticação.
+Projeto desenvolvido com intuíto de exemplificar o processo de autenticação de usuário.
 
 ## Linguagem
 
