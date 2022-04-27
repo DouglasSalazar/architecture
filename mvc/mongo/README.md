@@ -1,6 +1,6 @@
 # Mongo
 
-Projeto desenvolvido com intuíto de exemplificar um cadastro simples de um usuário.
+Projeto desenvolvido com intuito de exemplificar um cadastro simples de um usuário.
 
 
 Inicialização
